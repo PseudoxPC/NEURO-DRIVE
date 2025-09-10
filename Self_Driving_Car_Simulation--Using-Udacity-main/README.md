@@ -1,4 +1,4 @@
-# Self-Driving Car Simulation using Udacity Simulator
+<h1 align="center">🤖 Neuro-Drive - Self-Driving Cr Simulation Using Udacity Simulator</h1>
 
 This project demonstrates a basic self-driving car pipeline using behavioral cloning. It trains a convolutional neural network (CNN) to predict steering angles based on front-facing camera images, and then tests the trained model using the Udacity Self-Driving Car Simulator.
 
